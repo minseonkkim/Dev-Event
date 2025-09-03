@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-178-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-179-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -66,39 +66,6 @@
 
 <br />
 
-## 25년 08월
-- __[MLSA와 함께하는 대학생 IT 러닝 캠프](https://event-us.kr/mlsakr/event/108022)__ 
-  - 분류: `오프라인(한국 마이크로소프트)`, `무료`, `기술일반`
-  - 주최: MLSA Korea
-  - 접수: 07. 10(목) ~ 08. 29(금)
-
-- __[2025 이지랩 메이커톤 참가 모집](https://event-us.kr/1Tgns0mxZ4YZ/event/111108)__ 
-  - 분류: `오프라인(서울 중구)`, `무료`, `대회`
-  - 주최: 동국대 메이커스페이스
-  - 접수: 08. 26(화) ~ 08. 29(금)
-- __[오픈소스 데이(Open Source Day)](https://gpaseoul.kr/bbs/board.php?bo_table=side_event_KR&wr_id=33)__ 
-  - 분류: `오프라인(서울)`, `무료`, `오픈소스`
-  - 주최: 개인정보위원회
-  - 접수: 08. 26(화) ~ 08. 29(금)
-- __[2025 이지랩 메이커톤 참가 모집](https://forms.office.com/pages/responsepage.aspx?id=9PG2W0gLlkSbr_n7faXTUtCdJNNitEJJkCimE7CvQk9UN0tQUlRCNERFVUc4NENaRklHUVBIUkVKRi4u)__ 
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 엘리스
-  - 접수: 08. 26(화) ~ 08. 29(금)
-- __[25년도 오픈소스 컨트리뷰션 아카데미 [체험형-2차] 프로젝트 멘티 모집](https://www.oss.kr/contribution_academy_notice/show/5a5c21f4-3184-44ac-99af-41e3b3f74026)__
-  - 분류: `오프라인`, `무료`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 08(금) ~ 08. 31(일)
-- __[완전 자율 네트워크 운영을 위한 초단기 네트워크 트래픽 예측](https://aifactory.space/task/9162/overview)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: ETRI 네트워크 해커톤
-  - 접수: 08. 01(금) ~ 08. 31(일)
-- __[2025 서울 AI 해커톤 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeQCYiczcJLCAKhG9fsvcFUBrJbdtORDy7Tb0WiML4JtIqMOg/viewform)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 서울AI재단
-  - 접수: 08. 12(화) ~ 08. 31(일)
-
-<br />
-
 ## 25년 09월
 - __[Uracle AI Summit 2025](https://event-us.kr/uracle/event/109419)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
@@ -113,6 +80,10 @@
   - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
   - 주최: 스위프
   - 접수: 08. 26(화) ~ 09. 03(수)
+- __[AI 활용, 위협 및 보안 동향 - 기술 및 정책 관점에서](https://aifactory.space/task/9192/overview)__
+  - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
+  - 주최: 이노폴리스벤처협회
+  - 일시: 09. 03(수) 15:30 ~ 09. 03(수) 16:30
 - __[AWSKRUG 컨테이너 모임 🐳 AWS SE: EKS Series #1](https://www.meetup.com/awskrug/events/310351943/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
@@ -145,6 +116,10 @@
   - 분류: `오프라인(서울 성수)`, `유료`, `프론트엔드`
   - 주최: AWSKRUG
   - 접수: 08. 28(목) ~ 09. 10(수)
+- __[kt cloud TECH UP](https://ktcloud-techup.com/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
+  - 주최: kt cloud
+  - 접수: 08. 28(목) ~ 09. 11(목)
 - __[[국비지원] 백엔드 개발 트랙 1기](https://www.wanted.co.kr/events/potenup_be_1)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `벡엔드`
   - 주최: 원티드
@@ -167,12 +142,20 @@
   - 접수: 08. 04(월) ~ 09. 16(화)
 - __[AWSKRUG 데이터 모임](https://www.meetup.com/awskrug/events/310626090)__
   - 분류: `오프라인(서울 강남)`, `무료`, `데이터`
-  - 주최 : AWSKRUG
-  - 접수 : 08. 21(목) ~ 09. 17(목)
+  - 주최: AWSKRUG
+  - 접수: 08. 21(목) ~ 09. 17(목)
+- __[내가 만들어 내가 쓰는 AI에이전트 3종](https://event-us.kr/tdg/event/111005)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: 클라우드AI는 티디지
+  - 접수: 08. 28(목) ~ 09. 18(목) 13:00
 - __[Sui-mming Hackathon 2025](https://luma.com/rhv3wj3l)__
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`
   - 주최 : DSRV
   - 접수 : 08. 26(화) ~ 09. 19(금)
+- __[2025 국방 AI 경진대회](https://maicon.kr/)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최 : 국방부
+  - 접수 : 09. 01(월) ~ 09. 21(일)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
@@ -490,6 +473,8 @@
 | Datadog 한국 사용자 모임 | [homepage](https://datadogkrug.vercel.app) |
 | GDG Campus Korea | [homepage](https://gdg.community.dev/gdg-campus-korea/), [Instagram](https://www.instagram.com/gdg.campuskorea) |
 | 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
+| Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup), [채팅방](https://open.kakao.com/o/gMbf0M9g) |
+| Dev Korea | [homepage](https://dev-korea.com/events), [Discord](https://discord.gg/hqzMbuXy73) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -754,6 +739,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JinleeJeong"><img src="https://avatars.githubusercontent.com/u/45163013?v=4?s=100" width="100px;" alt="Jinlee"/><br /><sub><b>Jinlee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JinleeJeong" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yucori"><img src="https://avatars.githubusercontent.com/u/110710238?v=4?s=100" width="100px;" alt="Yucori"/><br /><sub><b>Yucori</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yucori" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pmj-chosim"><img src="https://avatars.githubusercontent.com/u/114579651?v=4?s=100" width="100px;" alt="박민진"/><br /><sub><b>박민진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=pmj-chosim" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://florianldt.com"><img src="https://avatars.githubusercontent.com/u/9365651?v=4?s=100" width="100px;" alt="Florian Ludot"/><br /><sub><b>Florian Ludot</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=florianldt" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
